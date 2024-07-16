@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-width: thin;
+    text-align: left;
+    background-color: lightgrey;
+}
+
+img {
+    border-style: solid;
+}
+
+h1 {
+    text-align: left;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+ol {
+    font-size: 18px;
+}
